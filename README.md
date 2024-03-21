@@ -1,4 +1,4 @@
-##Pandas-challenge
+## Pandas-challenge
 
 The pandas-challenge repository consists of PyCitySchools.jpynb, a Jupyter Notebook file containing an analysis of educational data from the PyCitySchools. The analysis focuses on various aspects of the city's schools, including performance metrics, school type, budget allocation, and student demographics.
 
@@ -17,11 +17,15 @@ The pandas-challenge folder consists of the following folders and files:
 --README.md: Provides an overview of the project.
 --Module_4_Challenge_Results_Screenshots.docx: Provides screenshots of the analysis results obtained after executing PyCitySchools.jpynb.
 
-##Instructions
+## Instructions
+
 To run the PyCitySchools.jpynb, follow these steps:
 
 1.Clone the GitHub repository to your local machine using the following command
   git clone https://github.com/SriPenumatcha/pandas-challenge.git
+  
 2.Open the PyCitySchools.jpynb file using Jupyter Notebook.
+
 3.Run each cell in the notebook to execute the code and generate the analysis results.
+
 4.Review the analysis findings and conclusions
