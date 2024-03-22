@@ -10,16 +10,16 @@ The PyCitySchools.jpynb in the PyCitySchool folder provides the report that anal
 
 The pandas-challenge folder consists of the following folders and files:
 
---PyCitySchools: Contains PyCitySchools.jpynb and Resources folder.
+*PyCitySchools*: PyCitySchools folder Contains PyCitySchools.jpynb and Resources folder.
 
     PyCitySchools.jpynb: A Jupyter Notebook file containing an analysis of schools data from the PyCitySchools.
     Resources: Contains the schools_complete.csv & students_complete.csv files.
     
---PyCitySchools-Written Report.docx: A written report that summarizes the analysis and provides conclusions.
+*PyCitySchools-Written Report.docx*: A written report that summarizes the analysis and provides conclusions.
 
---README.md: Provides an overview of the project.
+*README.md*: Provides an overview of the project.
 
---Module_4_Challenge_Results_Screenshots.docx: Provides screenshots of the analysis results obtained after executing PyCitySchools.jpynb.
+*Module_4_Challenge_Results_Screenshots.docx*: Provides screenshots of the analysis results obtained after executing PyCitySchools.jpynb.
 
 ## Instructions
 
